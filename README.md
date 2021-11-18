@@ -1,7 +1,7 @@
 ### Hi, i'm Guilherme Casa Zanin, Front-end developer
 
 - 👨‍💻 Currently working Nextjs, TypeScript, StyledComponent
-- 💻 Currently learning Design Pattern
+- 💻 Currently learning Fullstack Master (Dev Pleno)
 
 ## Tecnologies
 <div>
