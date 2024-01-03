@@ -11,6 +11,8 @@
   <img height="40" width="50" alt="Gui-TS" src="https://icongr.am/devicon/typescript-original.svg?size=86&color=currentColor"/>
   <img height="40" width="50" alt="Gui-WP" src="https://icongr.am/devicon/wordpress-plain.svg?size=128&color=ffffff"/>
   <img height="40" width="50" alt="Gui-Nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  <img height="40" width="50" alt="Gui-Nextjs" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=136&color=currentColor"/>
+  <img height="40" width="50" alt="Gui-Nextjs" src="https://icongr.am/devicon/java-original.svg?size=136&color=currentColor"/>
 </div>
 
 ## Follow me
