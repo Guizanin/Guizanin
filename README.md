@@ -1,7 +1,10 @@
 ### Hi, i'm Guilherme Casa Zanin, FullStack developer
 
-- 👨‍💻 Currently working with Java 
+- 👨‍💻 Systems Analyst @<a href="https://sis-it.com/">SIS Tecnologia<a/> 
 - 💻 Currently learning Java (Alura)
+- 🎓 Graduated in Information Systems @<a href="https://www.atitus.edu.br/">Atitus(IMED)</a>
+- 😍 Passionate for tecnology
+
 
 ## Tecnologies
 <div>
