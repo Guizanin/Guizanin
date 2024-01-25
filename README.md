@@ -16,6 +16,7 @@
   <img height="40" width="50" alt="Gui-Nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
   <img height="40" width="50" alt="Gui-Nextjs" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=136&color=currentColor"/>
   <img height="40" width="50" alt="Gui-Nextjs" src="https://icongr.am/devicon/java-original.svg?size=136&color=currentColor"/>
+  <img height="40" width="50" alt="Gui-Nextjs" src="https://icongr.am/simple/spring.svg?size=128&color=07e90b&colored=false"/>
 </div>
 
 ## Follow me
