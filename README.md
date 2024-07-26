@@ -1,6 +1,6 @@
 ### Hi, i'm Guilherme Casa Zanin, FullStack developer
 
-- 👨‍💻 Systems Analyst @<a href="https://sis-it.com/" target="_blank">SIS Tecnologia<a/> 
+- 👨‍💻 Systems Analyst @<a href="[https://sis-it.com/](https://www.gft.com/br/pt)" target="_blank">GFT<a/> 
 - 💻 Currently learning Java (Alura)
 - 🎓 Graduated in Information Systems @<a href="https://www.atitus.edu.br/" target="_blank">Atitus(IMED)</a>
 - 😍 Passionate for tecnology
