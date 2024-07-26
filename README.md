@@ -62,10 +62,12 @@
 </div>
 
 ###
-
-<div align="left">    
+<div align="left">
+  <a href="https://github.com/Guizanin">
+    
  ![Snake animation](https://github.com/Guizanin/Guizanin/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
   
 
 ###
