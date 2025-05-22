@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, i'm Guilherme Casa Zanin, FullStack developer</p>
+<p align="left">Hi, i'm Guilherme Casa Zanin, FullStack developer, </p>
 
 ###
 
@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1988<br>📚 I'm currently studing Backend Java<br>🎯 Every day, be a better version than the previous day<br>👨‍💻 Backend developer @<a href="[https://sis-it.com/](https://www.gft.com/br/pt)" target="_blank">GFT<a/> <br>🎓 Graduated in Information Systems @<a href="https://www.atitus.edu.br/" target="_blank">Atitus(IMED)</a><br>😍 Passionate for tecnology</p>
+<p align="left">✨ Creating bugs since 1988
+<br>👨‍💻 Work at more 10 years as developer
+<br>📚 I'm currently studing Backend Java
+<br>🎯 Every day, be a better version than the previous day
+<br>👨‍💻 Backend developer @<a href="[https://sis-it.com/](https://www.gft.com/br/pt)" target="_blank">GFT<a/> 
+<br>🎓 Graduated in Information Systems @<a href="https://www.atitus.edu.br/" target="_blank">Atitus(IMED)</a>
+<br>😍 Passionate for tecnology</p>
 
 ###
 
